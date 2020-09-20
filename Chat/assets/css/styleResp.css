@@ -1,0 +1,106 @@
+.form-acesso{
+	color: #585858;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+aside, h3{
+	color:white;
+}
+
+h5{
+	color:white;
+}
+td{
+	background: white;
+}
+.bg{
+	background:#F2F2F2;
+}
+
+.bordaR{
+	border-top: 2px solid #dc3545;
+}
+
+.bordaG{
+	border-top: 2px solid #28a745;
+}
+
+.bordaB{
+	border-top: 2px solid #007bff;
+}
+
+h2{
+	color:white;
+}
+.lateral{
+	width: 25%;
+	height: 100%;
+}
+
+
+.opcoes{
+	position: absolute;
+	top: 25%;
+	left: 40%;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline-block;
+}
+
+.on{
+	width: 25%;
+	float: right;
+
+}
+
+.crud{
+	position: absolute; 
+  	left: 30%; /*distanciamento a partir da esquerda */
+}
+
+.erro{
+	border-radius: 8px;
+	background: #FE2E64;
+	color: white;
+}
+
+.red1{
+  color: #FE2E64;
+}
+.blue1{
+  color: #2E9AFE;
+}
+
+.formulario{
+	background:#EFF8FB;
+	border: 8px solid #58ACFA;
+	border-radius: 15px;
+}
+
+.telaLogin{
+	background-image: url('https://img.freepik.com/free-vector/chatbot-icons-set-flat-style_98396-1081.jpg?size=626&ext=jpg');
+}
+
+.aside{
+	background: #dd353a;
+	width: 25%;
+	height: 100%;
+	position: fixed;
+    box-shadow: 5px 0px 30px black;    
+	float: left;
+}
+
+.posicao{
+	position: absolute;
+	left: 50%;
+  	top: 50%; 
+  	bottom: 0;
+  	transform: translateX(-50%) translateY(60%);
+}
